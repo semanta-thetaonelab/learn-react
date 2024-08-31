@@ -1,6 +1,5 @@
 import { useEffect } from "react";
 
-
 const App = () => {
   var firstName = "Sayan";
   let lastName = "Majumder";
